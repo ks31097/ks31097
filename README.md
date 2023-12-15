@@ -1,9 +1,16 @@
 # Who I Am
 Hi 👋, I'm Kostiantyn - a self-taught Software Engineer focused on Back-end development with Ruby. Interested in Linux, Microservices and Cloud Services.
 
+## Get in touch
+
++ YouTube: https://youtube.com/@the_ruby_exp
 <!--
 **ks31097/ks31097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Get in touch
 
++ [EN] Tech Articles: http://
++ [EN] YouTube: https://
++ [EN] LinkedIn: https://
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
