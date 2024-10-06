@@ -1,5 +1,5 @@
 # Who I Am
-Hi 👋, I'm Kostiantyn - a self-taught Software Engineer focused on Back-end development with Ruby. Interested in Linux, Microservices and Cloud Services.
+Hi 👋, I'm Kostiantyn - a self-taught Software Engineer focused on Back-end development with Ruby and Python Interested in Linux, Robotics, Microservices and Cloud Services.
 
 ## Get in touch
 
